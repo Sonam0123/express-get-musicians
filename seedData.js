@@ -13,5 +13,6 @@ const seedMusician = [
     }
   ]
 
+  
 
 module.exports = seedMusician;
